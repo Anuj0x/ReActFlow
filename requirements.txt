@@ -1,0 +1,23 @@
+# Core dependencies
+openai>=1.45.0
+pydantic>=2.9.0
+pydantic-settings>=2.0.0
+
+# Web framework
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+
+# Async and utilities
+httpx>=0.26.0  # for async HTTP requests
+structlog>=24.0.0  # structured logging
+redis>=5.0.0  # optional caching
+
+# Development
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+black>=24.0.0
+mypy>=1.8.0
+
+# Examples
+wikipedia>=1.4.0
+requests>=2.32.0
