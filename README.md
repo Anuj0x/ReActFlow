@@ -2,9 +2,6 @@
 
 A modern, high-performance async framework for building intelligent ReAct agents with reasoning and acting capabilities. Unifies ReAct prompting and OpenAI function calling in a single, efficient architecture.
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.115.0-green.svg)](https://fastapi.tiangolo.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Created by [Anuj0x](https://github.com/Anuj0x)** - Expert in AI, ML, and modern frameworks
 
